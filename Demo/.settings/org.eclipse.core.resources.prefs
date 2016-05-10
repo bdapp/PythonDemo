@@ -1,7 +1,9 @@
 eclipse.preferences.version=1
-encoding//src/QiuShi/qs.py=utf-8
 encoding//src/guess.py=utf-8
 encoding//src/rumen/Cookie.py=utf-8
 encoding//src/rumen/Login.py=utf-8
 encoding//src/rumen/baidu.py=utf-8
+encoding//src/shizhan/laifu.py=utf-8
+encoding//src/shizhan/qiushi.py=utf-8
+encoding//src/shizhan/tieba.py=utf-8
 encoding//src/yufa.py=utf-8
